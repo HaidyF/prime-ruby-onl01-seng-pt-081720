@@ -1,3 +1,4 @@
+req prime
 def prime? (i)
     (1..10).to_array
     return false if n < 2
